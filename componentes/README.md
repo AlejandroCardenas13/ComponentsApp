@@ -9,7 +9,7 @@ La meta del proyecto es conocer y construir algunos Widgets básicos que son fun
 - Configuración de variables de entorno de Android y Flutter
 
 ## Instalación ⚡ ⚡
-- Para clonar el repositorio en local, debes ejecutar el siguiente comando: ```git clone https://github.com/AlejandroCardenas13/ComponentsApp.git``` 
+- Para clonar el repositorio en local, debes ejecutar el siguiente comando: ```git clone https://github.com/AlejandroCardenas13/components-flutter``` 
 - Importar el proyecto en Visual Studio Code o Android Studio
 
 ## Estructura del proyecto ⚠️
